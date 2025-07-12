@@ -1,6 +1,8 @@
 # Predictive Traffic Accident Model
 
 Machine learning analysis of 2021 NHTSA traffic accident data to predict fatalities and identify accident patterns.
+## Image
+![alt text](<Screenshot from 2025-07-12 13-21-12.png>) ![alt text](<Screenshot from 2025-07-12 13-21-36.png>) ![alt text](<Screenshot from 2025-07-12 13-21-52.png>) ![alt text](<Screenshot from 2025-07-12 13-22-14.png>) ![alt text](<Screenshot from 2025-07-12 13-23-21.png>) ![alt text](<Screenshot from 2025-07-12 13-23-34.png>) ![alt text](<Screenshot from 2025-07-12 13-23-51.png>) ![alt text](<Screenshot from 2025-07-12 13-24-08.png>)
 
 ## Overview
 
