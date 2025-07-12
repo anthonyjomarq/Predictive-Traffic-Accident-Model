@@ -1,8 +1,15 @@
 # Predictive Traffic Accident Model
 
 Machine learning analysis of 2021 NHTSA traffic accident data to predict fatalities and identify accident patterns.
-## Image
-![alt text](<Screenshot from 2025-07-12 13-21-12.png>) ![alt text](<Screenshot from 2025-07-12 13-21-36.png>) ![alt text](<Screenshot from 2025-07-12 13-21-52.png>) ![alt text](<Screenshot from 2025-07-12 13-22-14.png>) ![alt text](<Screenshot from 2025-07-12 13-23-21.png>) ![alt text](<Screenshot from 2025-07-12 13-23-34.png>) ![alt text](<Screenshot from 2025-07-12 13-23-51.png>) ![alt text](<Screenshot from 2025-07-12 13-24-08.png>)
+## Visualizations
+![Distribution by Time of Day](images/Screenshot%20from%202025-07-12%2013-21-12.png) 
+![Distribution by Day of Week](images/Screenshot%20from%202025-07-12%2013-21-36.png) 
+![Age Group Analysis](images/Screenshot%20from%202025-07-12%2013-21-52.png) 
+![Vehicle Type Distribution](images/Screenshot%20from%202025-07-12%2013-22-14.png) 
+![Fatalities Distribution](images/Screenshot%20from%202025-07-12%2013-23-21.png) 
+![BAC Test Results](images/Screenshot%20from%202025-07-12%2013-23-34.png) 
+![Cross-Validation Results](images/Screenshot%20from%202025-07-12%2013-23-51.png) 
+![K-Means Clustering](images/Screenshot%20from%202025-07-12%2013-24-08.png)
 
 ## Overview
 
@@ -39,7 +46,7 @@ Machine learning analysis of 2021 NHTSA traffic accident data to predict fatalit
 
 4. Run the notebook:
    ```bash
-   jupyter notebook "Final_code (1).ipynb"
+   jupyter notebook Traffic_Accident_Analysis.ipynb
    ```
 
 ## Results
